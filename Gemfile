@@ -49,3 +49,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'nokogiri', '>= 1.8.5'
 gem 'ffi', '>= 1.9.24'
 gem 'loofah', '>= 2.2.3'
+
+gem "actionview", ">= 5.0.7.2"
