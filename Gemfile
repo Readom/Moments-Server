@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.0.7.1'
+gem 'rails', '~> 5.0.7.2'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
@@ -49,5 +49,3 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'nokogiri', '>= 1.8.5'
 gem 'ffi', '>= 1.9.24'
 gem 'loofah', '>= 2.2.3'
-
-gem "actionview", ">= 5.0.7.2"
